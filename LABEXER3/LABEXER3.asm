@@ -1,6 +1,7 @@
 
 BITS 32
 
+
 ; nasm -f elf32 -o LABEXER3.o LABEXER3.asm
 ; ld -m elf_i386 -o LABEXER3 LABEXER3.o
 ; ./LABEXER3
