@@ -1,0 +1,47 @@
+========================================
+       CERTIFICATE OF REGISTRATION
+========================================
+
+========== STUDENT INFORMATION ==========
+Enrollment Status : ENROLLED
+Student Number    : 202510601
+Student Name      : VALENCIA, VHINZENZ VIELLE ELLYS BARROGA
+College           : COMPUTER STUDIES
+Program           : BSCSSE
+Year Level        : 1
+Term / School Year: 1st term, SY 26-27
+Phone Number      : +630966853321
+Zip Code          : 1015
+Address           : 278 A TERESA STREET, STA. MESA MANILA
+Classification    : 
+
+========== ENROLLED SUBJECTS ==========
+CCS0021  - INFORMATION MANAGEMENT (LEC) | Units: 2
+CCS0021L - INFORMATION MANAGEMENT (LAB) | Units: 1
+CS0001   - DISCRETE STRUCTURES 1 | Units: 3
+CS0003   - COMPUTER SYSTEMS & ARCHITECTURE | Units: 2
+CS0003L  - COMPUTER SYSTEMS & ARCHITECTURE (LAB) | Units: 1
+CS0070   - OBJECT ORIENTED PROGRAMMING | Units: 2
+CS0070L  - OBJECT ORIENTED PROGRAMMING-LAB | Units: 1
+GED0021  - SPECIALIZED ENGLISH PROGRAM 2 | Units: 3
+GED0055  - MATHEMATICAL ANALYSIS | Units: 3
+GED0081  - COLLEGE PHYSICS 1 LECTURE | Units: 2
+GED0081L - COLLEGE PHYSICS 1 LABORATORY | Units: 1
+
+========== TUITION ASSESSMENT ==========
+Total Units          : 21
+Lecture Units        : 17
+Laboratory Units     : 4
+----------------------------------------
+Lecture Price/Unit   : PHP 1,000.00
+Laboratory Price/Unit: PHP 2,500.00
+----------------------------------------
+Lecture Tuition Fee  : PHP 17,000.00
+Laboratory Tuition   : PHP 10,000.00
+----------------------------------------
+TOTAL ASSESSMENT     : PHP 27,000.00
+----------------------------------------
+
+========== TUITION FORMULA ==========
+Total = (Lecture Units x 1000) + (Lab Units x 2500)
+Computation: (17 x 1,000) + (4 x 2,500) = PHP 27,000.00
