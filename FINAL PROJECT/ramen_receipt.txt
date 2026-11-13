@@ -1,0 +1,8 @@
+
+==== RAMEN HOUSE RECEIPT ====
+  x 2 Shoyu Ramen @ PHP 180 = PHP 360
+  x 1 Tonkotsu Ramen @ PHP 250 = PHP 250
+TOTAL: PHP 610
+PAYMENT: PHP 700
+CHANGE: PHP 90
+=============================
